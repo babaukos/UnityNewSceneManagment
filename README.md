@@ -1,7 +1,7 @@
-####New Scene Management Plugin for Unity 5.6
+#### New Scene Management Plugin for Unity 5.6
 
 This Unity Editor plugin enhances the process of creating new scenes in Unity 5.6 by providing customizable scene creation options. Users can set preferences for creating new scenes, such as whether to include a camera, skybox, or directional light, or to use a predefined template scene.
-##Features
+## Features
 
     Customizable Scene Creation:
         Choose between different scene types: Default, Parametric, or Template.
@@ -14,14 +14,14 @@ This Unity Editor plugin enhances the process of creating new scenes in Unity 5.
     Editor Preferences Integration:
         Easily configure scene creation preferences through the Unity Editor Preferences window.
 
-##Installation
+## Installation
 
     Clone or download the repository.
     Place the NewSceneManagement folder inside your Unity project's Assets/Editor directory.
     Open Unity and navigate to Edit > Preferences... to configure your scene creation preferences.
 
-##Usage
-###Setting Up Scene Creation Preferences
+## Usage
+Setting Up Scene Creation Preferences
 
     Go to Edit > Preferences... in the Unity Editor.
     Select the New Scene tab.
@@ -30,7 +30,7 @@ This Unity Editor plugin enhances the process of creating new scenes in Unity 5.
         Parametric: Allows you to specify whether to include a camera, skybox, and directional light.
         Template: Uses a predefined template scene. You can select the template file path using the provided field and picker.
 
-##Creating a New Scene
+## Creating a New Scene
 
 When you create a new scene (via File > New Scene or any other method), the plugin automatically applies your preferences. If the selected scene type is Template, the specified template scene will be loaded.
 Protecting the Template Scene
