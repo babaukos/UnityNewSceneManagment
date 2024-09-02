@@ -37,7 +37,7 @@ Contributing
 If you would like to contribute to this project, feel free to submit a pull request. Please ensure that your code follows the coding standards used in this project.
 License
 
-This project is licensed under the GPL-3.0 license. See the [LICENSE](/README.md) file for more details.
+This project is licensed under the GPL-3.0 license. See the [LICENSE](/LICENSE) file for more details.
 
 ## Contact
 For any questions or suggestions, feel free to open an issue on GitHub or contact me directly.
