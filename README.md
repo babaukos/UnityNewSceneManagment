@@ -1,4 +1,4 @@
-#### New Scene Management Plugin for Unity 5.6
+# New Scene Management Plugin for Unity 5.6
 
 This Unity Editor plugin enhances the process of creating new scenes in Unity 5.6 by providing customizable scene creation options. Users can set preferences for creating new scenes, such as whether to include a camera, skybox, or directional light, or to use a predefined template scene.
 ## Features
